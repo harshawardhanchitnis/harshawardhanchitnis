@@ -13,8 +13,11 @@
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 SOCIALS:
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshawardhanchitnis/)
+[![X (TWITTER)](https://img.shields.io/badge/-X%20(TWITTER)-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Harsh_Chitnis20)
+[![STACK OVERFLOW](https://img.shields.io/badge/-STACK%20OVERFLOW-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20821285/harshawardhan-chitnis)
+
 
 ---
 
