@@ -42,6 +42,11 @@
 ### ✨ Soft Skills:
 - Excellent **Written and Oral Communication**.  
 - Strong **Management Skills**.  
+---
+
+## 📂 Projects:
+- [**Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation**](https://github.com/harshawardhanchitnis/Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation)  
+- [**Project-Machine-Learning-Medical-Insurance-Cost-Prediction**](https://github.com/harshawardhanchitnis/Project-Machine-Learning-Medical-Insurance-Cost-Prediction)  
 
 ---
 
