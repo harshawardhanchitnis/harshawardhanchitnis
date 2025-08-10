@@ -47,7 +47,8 @@
 ## 📂 Projects:
 - [**Project-Artificial-Intelligence-RAG-Chatbot-With-Accuracy-Evaluation**](https://github.com/harshawardhanchitnis/Project-Artificial-Intelligence-RAG-Chatbot-With-Accuracy-Evaluation)  
 - [**Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation**](https://github.com/harshawardhanchitnis/Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation)  
-- [**Project-Machine-Learning-Medical-Insurance-Cost-Prediction**](https://github.com/harshawardhanchitnis/Project-Machine-Learning-Medical-Insurance-Cost-Prediction) 
+- [**Project-Machine-Learning-Medical-Insurance-Cost-Prediction**](https://github.com/harshawardhanchitnis/Project-Machine-Learning-Medical-Insurance-Cost-Prediction)  
+- [**Project-FullStack-Electricity-Bill-Management-System-PowerBill**](https://github.com/harshawardhanchitnis/Project-FullStack-Electricity-Bill-Management-System-PowerBill)  
 
 ---
 
