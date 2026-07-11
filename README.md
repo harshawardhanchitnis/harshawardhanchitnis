@@ -4,8 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshawardhanchitnis/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=flat&logo=githubpages&logoColor=white)](https://harshawardhanchitnis.github.io/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/Harsh_Chitnis20)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20821285/harshawardhan-chitnis)
 
 ## About Me
 
