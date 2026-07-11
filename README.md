@@ -1,61 +1,91 @@
-# 👋 Hi there, I'm Harshawardhan Chitnis!  
-🚀 **Recent Engineering Graduate | Machine Learning and Artificial Intelligence Enthusiast**
+# Hi, I'm Harshawardhan Chitnis 👋
 
----
+### Software Developer | AI/ML Engineer | Java Full-Stack & Data Science
 
-## 🎓 About Me:
-- 🎓 Recent graduate (June 2024) with a **Bachelor of Engineering in Information Technology** **with CGPA of 9.08** from NBN Sinhgad School of Engineering, Pune.  
-- 📊 Proficient in **Java**, **Python**, **C/C++**, and **SQL**.  
-- 🤖 Passionate about **Machine Learning**, **Artificial Intelligence**, **Web Development**, and **Cloud Computing**.  
-- 🌟 Experienced as **Machine Learning Head** in Google Developer Students Club (GDSC).  
-- 🧠 Skilled in **predictive modeling**, **statistical analysis**, and **data analysis**.  
-- 🔗 **IEEE Research Paper Link:** [INTEGRATED VEHICLE ACCIDENTAL ALERT – IOT BASED INTELLIGENT SYSTEM](https://ieeexplore.ieee.org/document/10774762)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshawardhanchitnis/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=flat&logo=githubpages&logoColor=white)](https://harshawardhanchitnis.github.io/)
 
----
+## About Me
 
-## 🌐 SOCIALS:
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshawardhanchitnis/)
-[![X (TWITTER)](https://img.shields.io/badge/-X%20(TWITTER)-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Harsh_Chitnis20)
-[![STACK OVERFLOW](https://img.shields.io/badge/-STACK%20OVERFLOW-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20821285/harshawardhan-chitnis)
+- Information Technology engineer with enterprise experience at **Tata Consultancy Services (TCS)**, working on a core banking application for the State Bank of India.
+- Currently pursuing an **MBA in Artificial Intelligence and Machine Learning** from D.Y. Patil Vidyapeeth, an **E-Postgraduate Diploma in Computer Science and Engineering** from IIT Bombay, and a **Postgraduate Diploma in Data Science and Artificial Intelligence** from COEP Technological University.
+- Interested in building reliable solutions across **Java full-stack development, artificial intelligence, machine learning, RAG systems, predictive analytics, and data visualization**.
+- Winner of the **TCS AI Hackathon 2025 – Ideapreneur Phase**.
+- Published an IEEE research paper on an IoT-based intelligent vehicle safety system.
 
+## Professional Experience
 
----
+### Tata Consultancy Services — Assistant System Engineer Trainee
+**April 2025 – April 2026 | Project: State Bank of India (GITC)**
 
-## 🛠️ Technical Skills:
+- Worked on a core banking application involving secure data processing, real-time APIs, and batch workflows.
+- Automated monitoring and log analysis with shell scripts, streamlined high-volume Oracle SQL/PL-SQL transactions, and managed deployments on Oracle WebLogic and HTTP servers.
+- Collaborated with client and backend teams to troubleshoot production issues and support stable system operations.
+- Completed the TCS Initial Learning Program with a specialization in Java full-stack development, covering Core Java, Spring Boot, Angular, SQL, and REST APIs.
 
-### 💻 Programming & Tools:
-![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=java&logoColor=white)
-![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![ARTIFICIAL INTELLIGENCE](https://img.shields.io/badge/-ARTIFICIAL%20INTELLIGENCE-102230?style=flat&logo=openai&logoColor=white)
-![MACHINE LEARNING](https://img.shields.io/badge/-MACHINE%20LEARNING-102230?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## Education
 
+| Institution | Program | Duration |
+| --- | --- | --- |
+| D.Y. Patil Vidyapeeth | MBA in Artificial Intelligence and Machine Learning | Jul 2026 – Jul 2028 |
+| Indian Institute of Technology Bombay | E-Postgraduate Diploma in Computer Science and Engineering | Jan 2026 – Jan 2027 |
+| COEP Technological University | Postgraduate Diploma in Data Science and Artificial Intelligence | Sep 2025 – Sep 2026 |
+| NBN Sinhgad School of Engineering, SPPU | B.E. in Information Technology — GPA: 9.08/10 | Jun 2020 – Jun 2024 |
 
-### 📊 Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## Technical Skills
 
-### ✨ Soft Skills:
-- Excellent **Written and Oral Communication**.  
-- Strong **Management Skills**.  
----
+- **Languages:** Java, Python, SQL, R
+- **Frameworks & Development:** Spring Boot, Angular, REST APIs, Microservices, Spring Data JPA, Swagger
+- **AI/ML:** NumPy, Pandas, TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, Hugging Face Transformers, SciPy, FAISS, RAG
+- **Databases:** Oracle, MySQL, H2
+- **Data & BI:** Power BI, Tableau, Jupyter Notebook, Google Colab
+- **Platforms & Tools:** Linux, Unix, Oracle WebLogic, VS Code, Git, GitHub
 
-## 📂 Projects:
-- [**Project-FullStack-SpringBoot + Angular-Electricity-Bill-Management-System-PowerBill**](https://github.com/harshawardhanchitnis/Project-FullStack-SpringBoot-Angular-Electricity-Bill-Management-System-PowerBill)
-- [**Project-Artificial-Intelligence-RAG-Chatbot-With-Accuracy-Evaluation**](https://github.com/harshawardhanchitnis/Project-Artificial-Intelligence-RAG-Chatbot-With-Accuracy-Evaluation)  
-- [**Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation**](https://github.com/harshawardhanchitnis/Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation)  
-- [**Project-Machine-Learning-Medical-Insurance-Cost-Prediction**](https://github.com/harshawardhanchitnis/Project-Machine-Learning-Medical-Insurance-Cost-Prediction)  
-  
+## Featured Projects
 
----
+### [Electricity Bill Management System — PowerBill](https://github.com/harshawardhanchitnis/Project-FullStack-SpringBoot-Angular-Electricity-Bill-Management-System-PowerBill)
 
-## 📈 GitHub Stats:
+Full-stack electricity billing platform built with Spring Boot microservices and Angular 15. It includes separate customer and admin modules, Eureka-based service discovery, secure REST APIs, Swagger documentation, bill tracking, payments, customer management, and a responsive interface.
+
+### [RAG Chatbot with Accuracy Evaluation](https://github.com/harshawardhanchitnis/Project-Artificial-Intelligence-RAG-Chatbot-With-Accuracy-Evaluation)
+
+Document-based question-answering system using PyMuPDF, Sentence Transformers, FAISS, and DeepSeek/LLaMA models. It evaluates response quality using ROUGE-1 F1 and cosine similarity to improve factual relevance and reduce hallucinations.
+
+### [Medical Insurance Cost Prediction](https://github.com/harshawardhanchitnis/Project-Machine-Learning-Medical-Insurance-Cost-Prediction)
+
+Predictive modeling project comparing Random Forest Regression and Multiple Linear Regression across demographic and lifestyle variables, with preprocessing, exploratory analysis, model evaluation, and an interactive prediction workflow.
+
+### [LSTM-Based Text Generation](https://github.com/harshawardhanchitnis/Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation)
+
+Deep-learning text-generation model using stacked LSTM networks, dropout regularization, one-hot encoding, RMSprop optimization, and temperature-based sampling for next-character and text-completion predictions.
+
+### Integrated Vehicle Safety Alert System (IVSAS)
+
+IoT-based vehicle safety solution using Arduino, ESP32, RF, GPS, audio alerts, and a mobile application to provide real-time warnings in accident-prone areas.
+
+## Research & Publication
+
+- **Integrated Vehicle Accidental Alert – IoT Based Intelligent System**  
+  IEEE-sponsored International Conference on Computing, Communication, Control and Automation (ICCUBEA), 2024  
+  [View the publication on IEEE Xplore](https://ieeexplore.ieee.org/document/10774762)
+
+## Certifications
+
+- Microsoft Azure AI Fundamentals (AI-900) — Score: 889/1000
+- PrepInsta Java Coding Certificate
+
+## Achievements & Leadership
+
+- **Winner — TCS AI Hackathon 2025, Ideapreneur Phase**
+- Learning Achievement Award at Tata Consultancy Services
+- Star Team Award at Tata Consultancy Services
+- Machine Learning Head, Google Developer Student Club (GDSC), NBNSSOE
+
+## GitHub Statistics
+
 ![Harshawardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshawardhanchitnis&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshawardhanchitnis&layout=compact&theme=radical)
 
-
 ---
+
+I'm open to opportunities in **software development, AI/ML engineering, data science, and intelligent application development**.
