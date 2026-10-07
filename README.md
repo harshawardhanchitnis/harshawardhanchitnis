@@ -1,91 +1,102 @@
-# Hi, I'm Harshawardhan Chitnis 👋
+[![Harshawardhan Chitnis — Software Development & AI/ML Engineer](./assets/profile-banner.svg)](https://harshawardhanchitnis.github.io/)
 
-### Software Developer | AI/ML Engineer | Java Full-Stack & Data Science
+I build **intelligent systems and scalable enterprise applications** that solve real-world problems. My work spans core banking at **Tata Consultancy Services**, agentic AI and RAG, full-stack development, and computer vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshawardhanchitnis/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=flat&logo=githubpages&logoColor=white)](https://harshawardhanchitnis.github.io/)
+Based in **Pune, India** · Open to opportunities in **software development and AI/ML engineering**.
 
-## About Me
+**[Explore my portfolio](https://harshawardhanchitnis.github.io/)** · **[View résumé](https://drive.google.com/file/d/1RSHu7IOVLDo88-C0k5VQjpUpUMFefZE0/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/harshawardhanchitnis/)** · **[Email](mailto:hchitnis20042002@gmail.com)**
 
-- Information Technology engineer with enterprise experience at **Tata Consultancy Services (TCS)**, working on a core banking application for the State Bank of India.
-- Currently pursuing an **MBA in Artificial Intelligence and Machine Learning** from D.Y. Patil Vidyapeeth, an **E-Postgraduate Diploma in Computer Science and Engineering** from IIT Bombay, and a **Postgraduate Diploma in Data Science and Artificial Intelligence** from COEP Technological University.
-- Interested in building reliable solutions across **Java full-stack development, artificial intelligence, machine learning, RAG systems, predictive analytics, and data visualization**.
-- Winner of the **TCS AI Hackathon 2025 – Ideapreneur Phase**.
-- Published an IEEE research paper on an IoT-based intelligent vehicle safety system.
+## Featured projects
 
-## Professional Experience
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://harshawardhanchitnis.github.io/projects/chalkbox"><img src="./assets/chalkbox.webp" width="440" alt="ChalkBox lesson-planning application" /></a>
+<h3>ChalkBox</h3>
+<p>An AI classroom assistant that turns textbook content into lesson plans with page-level sources, a separate audit step, and Hindi support.</p>
+<p><strong>React · TypeScript · Supabase · pgvector · RAG</strong></p>
+<p>Omnikon 2026 finalist — <strong>9th of 126 teams</strong>.</p>
+<p><a href="https://chalkbox-harshlabs.pages.dev">Live demo</a> · <a href="https://github.com/harshawardhanchitnis/ChalkBox-AI-Lesson-Planning-for-Real-Classrooms">Code</a> · <a href="https://harshawardhanchitnis.github.io/projects/chalkbox">Case study</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://harshawardhanchitnis.github.io/projects/nivaran-ai"><img src="./assets/nivaran-ai.jpg" width="440" alt="Nivaran AI consumer refund workflow" /></a>
+<h3>Nivaran AI</h3>
+<p>An agentic refund-resolution prototype that organizes evidence, flags conflicting facts, and prepares a complaint after the user approves a plan.</p>
+<p><strong>Angular · Node.js · Supabase · AI SDK · Zod</strong></p>
+<p>Built for <strong>WCC Launchpad 30</strong>. Users review and send drafts themselves.</p>
+<p><a href="https://nivaran-ai-green.vercel.app">Live demo</a> · <a href="https://github.com/harshawardhanchitnis/Nivaran-AI">Code</a> · <a href="https://harshawardhanchitnis.github.io/projects/nivaran-ai">Case study</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://harshawardhanchitnis.github.io/projects/healthnexus-ai"><img src="./assets/healthnexus-ai.jpg" width="440" alt="HealthNexus AI resource-planning command centre" /></a>
+<h3>HealthNexus AI</h3>
+<p>A healthcare resource-planning prototype combining forecasts, advisory redistribution plans, map-based operations, and an evidence-aware AI copilot.</p>
+<p><strong>Angular · FastAPI · OR-Tools · MapLibre · PyTorch</strong></p>
+<p>Demonstrates planning with <strong>simulated data and fictional facilities</strong>.</p>
+<p><a href="https://healthnexus-ai.web.app">Live demo</a> · <a href="https://github.com/harshawardhanchitnis/HealthNexus-AI">Code</a> · <a href="https://harshawardhanchitnis.github.io/projects/healthnexus-ai">Case study</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://harshawardhanchitnis.github.io/projects/smart-parking"><img src="./assets/smart-parking.svg" width="440" alt="Concept illustration of occupied, vacant and uncertain parking spaces" /></a>
+<h3>Smart Parking Intelligence</h3>
+<p>A fixed-camera parking analysis system that detects slot geometry and classifies occupancy, preserving uncertain results when confidence is low.</p>
+<p><strong>Next.js · FastAPI · OpenCV · YOLO · ONNX Runtime</strong></p>
+<p>Computer vision with <strong>confidence-aware decisions</strong>.</p>
+<p><a href="https://github.com/harshawardhanchitnis/Artificial-Intelligence-Based-Smart-Parking-System-">Code</a> · <a href="https://harshawardhanchitnis.github.io/projects/smart-parking">Case study</a></p>
+</td>
+</tr>
+</table>
 
-### Tata Consultancy Services — Assistant System Engineer Trainee
-**April 2025 – April 2026 | Project: State Bank of India (GITC)**
+### More of my work
 
-- Worked on a core banking application involving secure data processing, real-time APIs, and batch workflows.
-- Automated monitoring and log analysis with shell scripts, streamlined high-volume Oracle SQL/PL-SQL transactions, and managed deployments on Oracle WebLogic and HTTP servers.
-- Collaborated with client and backend teams to troubleshoot production issues and support stable system operations.
-- Completed the TCS Initial Learning Program with a specialization in Java full-stack development, covering Core Java, Spring Boot, Angular, SQL, and REST APIs.
+| Project | What I built | Explore |
+| :--- | :--- | :--- |
+| **Privacy-Aware Face Analytics** | Multi-face detection and tracking, anonymization, persistent analytics, and model lifecycle workflows. | [Case study](https://harshawardhanchitnis.github.io/projects/privacy-aware-face-analytics) |
+| **PowerBill** | Spring Boot and Angular electricity billing with customer/admin workflows, payments, complaints, and service discovery. | [Code](https://github.com/harshawardhanchitnis/Project-FullStack-SpringBoot-Angular-Electricity-Bill-Management-System-PowerBill) · [Case study](https://harshawardhanchitnis.github.io/projects/electricity-bill-management-system) |
+| **Document RAG Chatbot** | PDF retrieval with FAISS and Sentence Transformers; answer evaluation using ROUGE-1 and cosine similarity. | [Code](https://github.com/harshawardhanchitnis/Project-Artificial-Intelligence-RAG-Chatbot-With-Accuracy-Evaluation) · [Case study](https://harshawardhanchitnis.github.io/projects/rag-chatbot-for-pdf-documents) |
+| **Insurance Cost Prediction** | Regression models, exploratory analysis, and an interactive prediction workflow. | [Code](https://github.com/harshawardhanchitnis/Project-Machine-Learning-Medical-Insurance-Cost-Prediction) · [Case study](https://harshawardhanchitnis.github.io/projects/medical-insurance-cost-prediction) |
+| **LSTM Text Generation** | Sequence modeling and temperature-based text generation with stacked LSTM networks. | [Code](https://github.com/harshawardhanchitnis/Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation) |
 
-## Education
+## Experience
 
-| Institution | Program | Duration |
-| --- | --- | --- |
-| D.Y. Patil Vidyapeeth | MBA in Artificial Intelligence and Machine Learning | Jul 2026 – Jul 2028 |
-| Indian Institute of Technology Bombay | E-Postgraduate Diploma in Computer Science and Engineering | Jan 2026 – Jan 2027 |
-| COEP Technological University | Postgraduate Diploma in Data Science and Artificial Intelligence | Sep 2025 – Sep 2026 |
-| NBN Sinhgad School of Engineering, SPPU | B.E. in Information Technology — GPA: 9.08/10 | Jun 2020 – Jun 2024 |
+**Tata Consultancy Services · Assistant System Engineer Trainee**<br>
+April 2025 – April 2026 · State Bank of India (GITC)
 
-## Technical Skills
+- Supported core banking workflows, real-time APIs, and scheduled batch operations.
+- Worked with Oracle SQL/PLSQL, shell-based monitoring and log analysis, and Oracle WebLogic deployments.
+- Collaborated on production troubleshooting and completed the Java full-stack Initial Learning Program covering Spring Boot, Angular, SQL, and REST APIs.
 
-- **Languages:** Java, Python, SQL, R
-- **Frameworks & Development:** Spring Boot, Angular, REST APIs, Microservices, Spring Data JPA, Swagger
-- **AI/ML:** NumPy, Pandas, TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, Hugging Face Transformers, SciPy, FAISS, RAG
-- **Databases:** Oracle, MySQL, H2
-- **Data & BI:** Power BI, Tableau, Jupyter Notebook, Google Colab
-- **Platforms & Tools:** Linux, Unix, Oracle WebLogic, VS Code, Git, GitHub
+## Tools I work with
 
-## Featured Projects
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java · Python · SQL · TypeScript · JavaScript · Shell |
+| **Application engineering** | Spring Boot · Angular · React · Next.js · FastAPI · REST APIs |
+| **AI & computer vision** | PyTorch · TensorFlow · scikit-learn · OpenCV · YOLO · ONNX Runtime · MLflow |
+| **Retrieval & agents** | RAG · FAISS · Sentence Transformers · pgvector · LangChain · LangGraph |
+| **Data & delivery** | Oracle · PostgreSQL · MySQL · Supabase · Docker · Git · Linux |
 
-### [Electricity Bill Management System — PowerBill](https://github.com/harshawardhanchitnis/Project-FullStack-SpringBoot-Angular-Electricity-Bill-Management-System-PowerBill)
+## Research & recognition
 
-Full-stack electricity billing platform built with Spring Boot microservices and Angular 15. It includes separate customer and admin modules, Eureka-based service discovery, secure REST APIs, Swagger documentation, bill tracking, payments, customer management, and a responsive interface.
+- **IEEE ICCUBEA 2024 publication:** [Integrated Vehicle Accidental Alert – IoT Based Intelligent System](https://ieeexplore.ieee.org/document/10774762).
+- **TCS AI Hackathon 2025:** Ideapreneur Phase Winner.
+- **Omnikon National AI/ML Hackathon 2026:** Top 10 finalist, **rank 9/126**, with Team HarshLabs and ChalkBox.
+- **TCS:** Learning Achievement Award and Star Team Award.
+- **Leadership:** Machine Learning Head, Google Developer Student Club, NBNSSOE.
+- **Certifications:** Microsoft Azure AI Fundamentals (AI-900), **889/1000**; PrepInsta Java Coding Certificate.
 
-### [RAG Chatbot with Accuracy Evaluation](https://github.com/harshawardhanchitnis/Project-Artificial-Intelligence-RAG-Chatbot-With-Accuracy-Evaluation)
+<details>
+<summary><strong>Education & ongoing learning</strong></summary>
 
-Document-based question-answering system using PyMuPDF, Sentence Transformers, FAISS, and DeepSeek/LLaMA models. It evaluates response quality using ROUGE-1 F1 and cosine similarity to improve factual relevance and reduce hallucinations.
+| Institution | Program | Period |
+| :--- | :--- | :--- |
+| **D.Y. Patil Vidyapeeth** | MBA in Artificial Intelligence and Machine Learning | Jul 2026 – Jul 2028 · Ongoing |
+| **IIT Bombay** | E-Postgraduate Diploma in Computer Science and Artificial Intelligence | Jan 2026 – Jan 2027 · Ongoing |
+| **COEP Technological University** | Postgraduate Diploma in Data Science and Artificial Intelligence | Sep 2025 – Dec 2026 · Ongoing |
+| **NBN Sinhgad School of Engineering, SPPU** | B.E. in Information Technology · **GPA 9.08/10** | Jun 2020 – Jun 2024 · Completed |
 
-### [Medical Insurance Cost Prediction](https://github.com/harshawardhanchitnis/Project-Machine-Learning-Medical-Insurance-Cost-Prediction)
-
-Predictive modeling project comparing Random Forest Regression and Multiple Linear Regression across demographic and lifestyle variables, with preprocessing, exploratory analysis, model evaluation, and an interactive prediction workflow.
-
-### [LSTM-Based Text Generation](https://github.com/harshawardhanchitnis/Project-Machine-Learning-LSTM-Based-Next-Word-Generation-Deep-Learning-Model-For-Text-Generation)
-
-Deep-learning text-generation model using stacked LSTM networks, dropout regularization, one-hot encoding, RMSprop optimization, and temperature-based sampling for next-character and text-completion predictions.
-
-### Integrated Vehicle Safety Alert System (IVSAS)
-
-IoT-based vehicle safety solution using Arduino, ESP32, RF, GPS, audio alerts, and a mobile application to provide real-time warnings in accident-prone areas.
-
-## Research & Publication
-
-- **Integrated Vehicle Accidental Alert – IoT Based Intelligent System**  
-  IEEE-sponsored International Conference on Computing, Communication, Control and Automation (ICCUBEA), 2024  
-  [View the publication on IEEE Xplore](https://ieeexplore.ieee.org/document/10774762)
-
-## Certifications
-
-- Microsoft Azure AI Fundamentals (AI-900) — Score: 889/1000
-- PrepInsta Java Coding Certificate
-
-## Achievements & Leadership
-
-- **Winner — TCS AI Hackathon 2025, Ideapreneur Phase**
-- Learning Achievement Award at Tata Consultancy Services
-- Star Team Award at Tata Consultancy Services
-- Machine Learning Head, Google Developer Student Club (GDSC), NBNSSOE
-
-## GitHub Statistics
-
-![Harshawardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshawardhanchitnis&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshawardhanchitnis&layout=compact&theme=radical)
+</details>
 
 ---
 
-I'm open to opportunities in **software development, AI/ML engineering, data science, and intelligent application development**.
+**Have a project or opportunity in mind?** [Get in touch](mailto:hchitnis20042002@gmail.com) or [explore the full portfolio](https://harshawardhanchitnis.github.io/).
