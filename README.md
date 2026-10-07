@@ -4,7 +4,7 @@ I build **intelligent systems and scalable enterprise applications** that solve 
 
 Based in **Pune, India** · Open to opportunities in **software development and AI/ML engineering**.
 
-**[Explore my portfolio](https://harshawardhanchitnis.github.io/)** · **[View résumé](https://drive.google.com/file/d/1RSHu7IOVLDo88-C0k5VQjpUpUMFefZE0/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/harshawardhanchitnis/)** · **[Email](mailto:hchitnis20042002@gmail.com)**
+**[Explore my portfolio](https://harshawardhanchitnis.github.io/)** · **[View Resume](https://drive.google.com/file/d/1RSHu7IOVLDo88-C0k5VQjpUpUMFefZE0/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/harshawardhanchitnis/)** · **[Email](mailto:hchitnis20042002@gmail.com)**
 
 ## Watch my introduction
 
@@ -74,6 +74,15 @@ April 2025 – April 2026 · State Bank of India (GITC)
 - Worked with Oracle SQL/PLSQL, shell-based monitoring and log analysis, and Oracle WebLogic deployments.
 - Collaborated on production troubleshooting and completed the Java full-stack Initial Learning Program covering Spring Boot, Angular, SQL, and REST APIs.
 
+## Education
+
+| Institution | Program | Period |
+| :--- | :--- | :--- |
+| **D.Y. Patil Vidyapeeth** | MBA in Artificial Intelligence and Machine Learning | Jul 2026 – Jul 2028 · Ongoing |
+| **IIT Bombay** | E-Postgraduate Diploma in Computer Science and Artificial Intelligence | Jan 2026 – Jan 2027 · Ongoing |
+| **COEP Technological University** | Postgraduate Diploma in Data Science and Artificial Intelligence | Sep 2025 – Dec 2026 · Ongoing |
+| **NBN Sinhgad School of Engineering, SPPU** | B.E. in Information Technology · **GPA 9.08/10** | Jun 2020 – Jun 2024 · Completed |
+
 ## Tools I work with
 
 | Area | Technologies |
@@ -92,18 +101,6 @@ April 2025 – April 2026 · State Bank of India (GITC)
 - **TCS:** Learning Achievement Award and Star Team Award.
 - **Leadership:** Machine Learning Head, Google Developer Student Club, NBNSSOE.
 - **Certifications:** Microsoft Azure AI Fundamentals (AI-900), **889/1000**; PrepInsta Java Coding Certificate.
-
-<details>
-<summary><strong>Education & ongoing learning</strong></summary>
-
-| Institution | Program | Period |
-| :--- | :--- | :--- |
-| **D.Y. Patil Vidyapeeth** | MBA in Artificial Intelligence and Machine Learning | Jul 2026 – Jul 2028 · Ongoing |
-| **IIT Bombay** | E-Postgraduate Diploma in Computer Science and Artificial Intelligence | Jan 2026 – Jan 2027 · Ongoing |
-| **COEP Technological University** | Postgraduate Diploma in Data Science and Artificial Intelligence | Sep 2025 – Dec 2026 · Ongoing |
-| **NBN Sinhgad School of Engineering, SPPU** | B.E. in Information Technology · **GPA 9.08/10** | Jun 2020 – Jun 2024 · Completed |
-
-</details>
 
 ---
 
