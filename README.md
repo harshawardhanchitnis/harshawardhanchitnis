@@ -6,6 +6,14 @@ Based in **Pune, India** · Open to opportunities in **software development and 
 
 **[Explore my portfolio](https://harshawardhanchitnis.github.io/)** · **[View résumé](https://drive.google.com/file/d/1RSHu7IOVLDo88-C0k5VQjpUpUMFefZE0/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/harshawardhanchitnis/)** · **[Email](mailto:hchitnis20042002@gmail.com)**
 
+## Watch my introduction
+
+<a href="https://harshawardhanchitnis.github.io/assets/video/showcase-720.mp4"><img src="./assets/intro-video-poster.webp" width="720" alt="Watch Harshawardhan Chitnis's 3-minute 43-second introduction video" /></a>
+
+**[▶ Watch the intro video · 3:43](https://harshawardhanchitnis.github.io/assets/video/showcase-720.mp4)** · [Watch on my portfolio with captions](https://harshawardhanchitnis.github.io/)
+
+A narrated introduction to my background, enterprise experience, and software and AI projects. Click the preview to open the video player.
+
 ## Featured projects
 
 <table>
